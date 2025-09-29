@@ -14,16 +14,6 @@ The project combines **fun storytelling**, **pixel art sprites**, and **basic sh
 
 ---
 
-## Media
-
-- **GIF preview:**  
-  `![Gameplay preview](path-to-gif.gif)`
-
-- **Sprites and assets:**  
-  `![Sprite Example](path-to-sprite.png)`
-
----
-
 ## Links & Credits
 
 - Scratch project: https://scratch.mit.edu/projects/1162677342/
